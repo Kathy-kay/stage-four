@@ -5,7 +5,7 @@ const Project = () => {
   return (
     <section
       id="#projects"
-      className="bg-project-500 px-6 pt-10 pb-10 sm:px-28 md:pt-32 md:pb-20 text-white"
+      className="bg-project-500 px-6 py-10  sm:px-28 md:pt-32 md:pb-20 text-white"
     >
       <h2 className="text-3xl sm:text-4xl md:text-4xl font-medium">Project</h2>
       <div className="flex flex-col sm:flex-row pt-6 sm:pt-16">
