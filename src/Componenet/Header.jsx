@@ -15,8 +15,8 @@ const Header = () => {
         </h2>
         <h4 className="text-normal leading-normal mt-3">
          I'm a passionate and self-taught frontend developer 
-          with a love for crafting immersive digital experiences. With a 
-          strong foundation in HTML, CSS, and a knack for responsive design
+          with a love for crafting <br/>immersive digital experiences. With a 
+          strong foundation <br/>in HTML, CSS, and a knack for responsive design
         </h4>
         <button className="bg-teals-400 hover:bg-teal-900 mt-7 px-4 py-2 rounded">
           Download Resume
