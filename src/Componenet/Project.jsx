@@ -52,7 +52,7 @@ const Project = () => {
             <span className="text-teals-400">#CSS</span>
           </div>
           <a
-            href="https://hng-stage.vercel.app/"
+            href="https://vue-exams-project.vercel.app/"
             className="bg-teals-400 hover:bg-teal-900 px-4 py-2 rounded"
           >
             DEMO
