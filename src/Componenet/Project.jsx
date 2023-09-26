@@ -8,7 +8,7 @@ const Project = () => {
       className="bg-project-500 px-6 pt-10 pb-10 sm:px-28 md:pt-32 md:pb-20 text-white"
     >
       <h2 className="text-3xl sm:text-4xl md:text-4xl font-medium">Project</h2>
-      <div className="flex flex-col sm:flex-row pt-6 sm:pt-10">
+      <div className="flex flex-col sm:flex-row pt-6 sm:pt-8">
         <div className="sm:w-1/2">
           <img src={project1} alt="movie project" />
         </div>
@@ -34,7 +34,7 @@ const Project = () => {
           </a>
         </div>
       </div>
-      <div className="flex flex-col sm:flex-row pt-6 sm:pt-10">
+      <div className="flex flex-col sm:flex-row pt-6 sm:pt-8">
         <div className="sm:w-1/2">
           <img src={project2} alt="project2" />
         </div>
