@@ -14,9 +14,9 @@ const Header = () => {
           Front-end Developer
         </h2>
         <h4 className="text-normal leading-normal mt-3">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit.
-          <br /> Officiis voluptas eum exercitationem ratione modi nulla <br />
-          voluptatem debitis, minima, eius in omnis enim! Ullam quia{" "}
+         I'm a passionate and self-taught frontend developer 
+          with a love for crafting immersive digital experiences. With a 
+          strong foundation in HTML, CSS, and a knack for responsive design
         </h4>
         <button className="bg-teals-400 hover:bg-teal-900 mt-7 px-4 py-2 rounded">
           Download Resume
