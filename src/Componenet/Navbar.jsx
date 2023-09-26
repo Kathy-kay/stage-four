@@ -8,7 +8,7 @@ const Navbar = () => {
   }, []);
 
   return (
-    <header className="w-full shadow-lg bg-bay-300 py-4 px-6 sm:py-10 sm:px-28 font-bold sticky top-0 z-20">
+    <header className="w-full shadow-lg bg-bay-300 py-4 px-6 sm:py-10 cursor-pointer sm:px-28 font-bold sticky top-0 z-20">
       <div className="container mx-auto flex items-center justify-between text-gray-300">
         <Link to="/" className="text-2xl sm:text-3xl">
           <h1>KATHY</h1>
