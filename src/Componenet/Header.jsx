@@ -18,9 +18,9 @@ const Header = () => {
           with a love for crafting <br/>immersive digital experiences. With a 
           strong foundation <br/>in HTML, CSS, and a knack for responsive design
         </h4>
-        <button className="bg-teals-400 hover:bg-teal-900 mt-7 px-4 py-2 rounded">
+{/*         <button className="bg-teals-400 hover:bg-teal-900 mt-7 px-4 py-2 rounded">
           Download Resume
-        </button>
+        </button> */}
       </div>
       <div className="absolute top-12 sm:top-0 bottom-12 right-0 max-w-[75%] z-0">
         <WaterDropGrid />
