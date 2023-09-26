@@ -11,6 +11,9 @@ export default {
         "about-300": "#111113",
         "project-500": "#000",
       },
+      width: {
+        "fit-content": "fit-content", // Add a custom width class
+      },
     },
   },
   plugins: [],
