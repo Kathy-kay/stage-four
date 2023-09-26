@@ -4,7 +4,7 @@ import project2 from "../assets/project2.png";
 const Project = () => {
   return (
     <section
-      id="projects"
+      id="#projects"
       className="bg-project-500 px-6 pt-10 pb-10 sm:px-28 md:pt-32 md:pb-20 text-white"
     >
       <h2 className="text-3xl sm:text-4xl md:text-4xl font-medium">Project</h2>
