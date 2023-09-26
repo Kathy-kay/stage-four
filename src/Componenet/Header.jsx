@@ -7,10 +7,10 @@ const Header = () => {
       className="relative z-10 max-w-6xl m-auto px-6 sm:p-28 overflow-hidden"
     >
       <div className="w-fit-content z-10 text-gray-200 text-center sm:text-left">
-        <h1 className="font-bold text-4xl sm:text-6xl text-teals-400 leading-normal">
+        <h1 className="font-bold text-4xl sm:text-6xl text-teals-400 leading-normal mb-6">
           Hello, I'm Kafayat
         </h1>
-        <h2 className="font-bold text-4xl sm:text-6xl leading-normal">
+        <h2 className="font-bold text-4xl sm:text-6xl leading-normal mb-6">
           Front-end Developer
         </h2>
         <h4 className="text-normal leading-normal mt-3">
